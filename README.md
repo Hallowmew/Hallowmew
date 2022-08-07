@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hallowmew
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can contact me via email Marlboraac2004@gmail.com or via discord Hallowmew #0050
+- 👀 I’m interested in engineeing
+- 🌱 I’m currently learning luau and python naybe carbon afterwards
+- 💞️ I’m looking to collaborate on any kind of project
+- 📫 Reach me trought here or my email is narlboraac2004@gmail.com.
 
 <!---
 Hallowmew/Hallowmew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
