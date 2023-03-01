@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hallowmew
 - 👀 I’m interested in engineeing
-- 🌱 I’m currently learning luau and python naybe carbon afterwards
+- 🌱 I’m currently learning luau and python maybe carbon afterwards
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 Reach me trought here or my email is narlboraac2004@gmail.com.
 
